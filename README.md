@@ -3,7 +3,7 @@
 Site produit par LANGE Paul.
 
 
-Propriété ou "fonctionnalité" vu en cours intégré au projet : 
+Propriétés ou fonctionnalités vu en cours intégré au projet : 
 
 - Utilisation d'un fichier SCSS
 - Utilisation de la propriété display flex
